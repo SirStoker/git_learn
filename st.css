@@ -10,3 +10,10 @@ div {
 	overflow: visible;
 }
 
+.box {
+
+	width: 300px;
+	text-align: center;
+	border: 2px solid #00FFFFFF;
+}
+
