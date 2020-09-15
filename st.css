@@ -8,6 +8,8 @@ div {
 	width: 300px;
 	height: 400px;
 	overflow: visible;
+	color: green;
+	inline: blok;
 }
 
 .box {
